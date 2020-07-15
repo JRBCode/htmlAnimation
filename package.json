@@ -25,6 +25,6 @@
   "devDependencies": {
     "chalk": "^2.3.0",
     "open": "^0.0.5",
-    "serve": "^6.4.9"
+    "serve": "^11.3.2"
   }
 }
