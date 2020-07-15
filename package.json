@@ -24,7 +24,7 @@
   "homepage": "https://gnipbao.github.io/h5-test/menu.html",
   "devDependencies": {
     "chalk": "^2.3.0",
-    "open": "^0.0.5",
+    "open": "^7.0.4",
     "serve": "^6.4.9"
   }
 }
